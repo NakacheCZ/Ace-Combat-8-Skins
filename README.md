@@ -8,19 +8,36 @@ Created by **NakacheCZ / nakache**.
 
 ## Downloads
 
-See the **Releases** section for downloadable skin packs and individual releases.
+Download the skin packs from the repository's **Releases** section. The initial F-35 collection consists of three releases:
 
-> **Catalogue coming soon:** preview images and direct release links will be added here as skins are uploaded.
+### F-35 Heritage
 
-## F-35
+A four-skin heritage-inspired collection for the F-35.
 
-F-35 custom liveries and skin packs.
+- **Hellcat** — VFC-111 heritage livery
+- **Ocean** — VFC-111 CAG bird
+- **Heater-Ferris**
+- **SEA**
 
-*Coming soon.*
+### F-35 Aggressors
+
+A four-skin aggressor collection for the F-35.
+
+- **Mako** — Erusea
+- **Shark** — Erusea
+- **Wraith** — Erusea
+- **Asia Minor** — Sotoa
+
+### X-35
+
+A two-skin collection inspired by the X-35 and early Joint Strike Fighter era.
+
+- **Hill Gray**
+- **X-35C Prototype**
 
 ## Installation
 
-Detailed installation instructions are available in [INSTALLATION.md](INSTALLATION.md).
+These skins are intended to be installed with **Ace Combat 8 SKIN STUDIO** and require **ACE8 MOD LAUNCHER AND LOADER**. Detailed installation instructions are available in [INSTALLATION.md](INSTALLATION.md).
 
 ## Usage and redistribution
 
