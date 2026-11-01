@@ -3,6 +3,8 @@
 Individual previews for the F-35 Heritage collection.
 <img width="3840" height="2160" alt="ACE COMBAT 8  WINGS OF THEVE Screenshot 2026 10 31 - 03 45 39 05" src="https://github.com/user-attachments/assets/8ea224a0-1a1c-42a0-ba07-b32fb6b9958d" />
 <img width="3840" height="2160" alt="ACE COMBAT 8  WINGS OF THEVE Screenshot 2026 10 31 - 03 45 14 13" src="https://github.com/user-attachments/assets/49c0c97e-a3a5-4dfc-ad46-6644dbc3b784" />
+<img width="3840" height="2160" alt="ACE COMBAT 8  WINGS OF THEVE Screenshot 2026 10 31 - 03 55 00 17" src="https://github.com/user-attachments/assets/641b3b62-f3a5-4387-aef9-3ef03175800e" />
+<img width="3840" height="2160" alt="ACE COMBAT 8  WINGS OF THEVE Screenshot 2026 10 31 - 03 58 34 71" src="https://github.com/user-attachments/assets/dd589619-71fb-4b15-97ac-5ef15125d71b" />
 
 ## Hellcat
 
