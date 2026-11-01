@@ -12,46 +12,24 @@ See the **Releases** section for downloadable skin packs and individual releases
 
 > **Catalogue coming soon:** preview images and direct release links will be added here as skins are uploaded.
 
-## Skin catalogue
+## F-35
 
-### F-35
-
-F-35 heritage, aggressor and fictional liveries.
+F-35 custom liveries and skin packs.
 
 *Coming soon.*
-
-### MiG-29
-
-Historical, semi-historical and fictional MiG-29 liveries.
-
-*Coming soon.*
-
-### JAS 39 Gripen
-
-Historical and special-scheme Gripen liveries.
-
-*Coming soon.*
-
-### Other aircraft
-
-Additional aircraft and skin collections will be added as they are prepared for release.
 
 ## Installation
 
 Detailed installation instructions are available in [INSTALLATION.md](INSTALLATION.md).
 
-## Skin classifications
+## Usage and redistribution
 
-Where applicable, releases are identified as:
+These skins may be reposted and mirrored on other websites provided that:
 
-- **Historical** — based directly on a real aircraft or documented livery.
-- **Semi-historical** — based on a real unit, aircraft or scheme but adapted to another aircraft/configuration.
-- **Fictional / What-if** — an original or speculative scheme inspired by real-world aircraft, units or camouflage concepts.
-
-## Usage
-
-These skins are provided for personal use with Ace Combat 8. Please do not redistribute or re-upload the files elsewhere without permission.
+- **NakacheCZ / nakache is properly credited as the original creator.**
+- The skins remain **free to download** and are not sold or placed behind a paywall.
+- Reuploads should not falsely claim authorship of the original work.
 
 ## Disclaimer
 
-This is an unofficial fan-made project and is not affiliated with or endorsed by Bandai Namco Entertainment, Project Aces, or the owners of any third-party trademarks represented by historical or fictional liveries.
+This is an unofficial fan-made project and is not affiliated with or endorsed by Bandai Namco Entertainment, Project Aces, or the owners of any third-party trademarks represented by the liveries.
