@@ -10,7 +10,7 @@ Created by **NakacheCZ / nakache**.
 
 **[View the F-35 Skin Gallery](GALLERY.md)** for individual skin previews.
 
-Download the skin packs from the repository's **Releases** section. The initial F-35 collection consists of three releases:
+Download the skin packs from the repository's **Releases** section.
 
 ### F-35 Heritage
 
