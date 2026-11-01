@@ -8,7 +8,7 @@ Created by **NakacheCZ / nakache**.
 
 ## Downloads & Previews
 
-**[View the F-35 Skin Gallery](GALLERY.md)** for individual skin previews.
+**[View the F-35 Skin Gallery](gallery/F-35/README.md)** for individual skin previews.
 
 Download the skin packs from the repository's **Releases** section.
 
@@ -21,7 +21,7 @@ A four-skin heritage-inspired collection for the F-35.
 - **Heater-Ferris**
 - **SEA**
 
-[View Heritage previews](GALLERY.md#heritage)
+[View Heritage previews](gallery/F-35/heritage/README.md)
 
 ### F-35 Aggressors
 
@@ -32,7 +32,7 @@ A four-skin aggressor collection for the F-35.
 - **Wraith** — Erusea
 - **Asia Minor** — Sotoa
 
-[View Aggressor previews](GALLERY.md#aggressors)
+[View Aggressor previews](gallery/F-35/aggressors/README.md)
 
 ### X-35
 
@@ -41,7 +41,7 @@ A two-skin collection inspired by the X-35 and early Joint Strike Fighter era.
 - **Hill Gray**
 - **X-35C Prototype**
 
-[View X-35 previews](GALLERY.md#x-35)
+[View X-35 previews](gallery/F-35/x35/README.md)
 
 ## Installation
 
