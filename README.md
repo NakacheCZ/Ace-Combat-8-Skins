@@ -8,7 +8,7 @@ Created by **NakacheCZ / nakache**.
 
 ## Downloads & Previews
 
-**[View the F-35 Skin Gallery](gallery/F-35/README.md)** for individual skin previews.
+**[Browse the Skin Gallery](gallery/README.md)** for individual skin previews organized by aircraft.
 
 Download the skin packs from the repository's **Releases** section.
 
