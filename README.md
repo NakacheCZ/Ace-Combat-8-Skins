@@ -6,7 +6,9 @@ Created by **NakacheCZ / nakache**.
 
 > This repository is primarily an archive and mirror. Downloadable skin files are distributed through **GitHub Releases** rather than stored directly in the repository.
 
-## Downloads
+## Downloads & Previews
+
+**[View the F-35 Skin Gallery](GALLERY.md)** for individual skin previews.
 
 Download the skin packs from the repository's **Releases** section. The initial F-35 collection consists of three releases:
 
@@ -19,6 +21,8 @@ A four-skin heritage-inspired collection for the F-35.
 - **Heater-Ferris**
 - **SEA**
 
+[View Heritage previews](GALLERY.md#heritage)
+
 ### F-35 Aggressors
 
 A four-skin aggressor collection for the F-35.
@@ -28,12 +32,16 @@ A four-skin aggressor collection for the F-35.
 - **Wraith** — Erusea
 - **Asia Minor** — Sotoa
 
+[View Aggressor previews](GALLERY.md#aggressors)
+
 ### X-35
 
 A two-skin collection inspired by the X-35 and early Joint Strike Fighter era.
 
 - **Hill Gray**
 - **X-35C Prototype**
+
+[View X-35 previews](GALLERY.md#x-35)
 
 ## Installation
 
