@@ -43,6 +43,18 @@ A two-skin collection inspired by the X-35 and early Joint Strike Fighter era.
 
 [View X-35 previews](gallery/F-35/x35/README.md)
 
+### F/A-18E Sunliners
+
+A five-aircraft collection based on the US Navy Sunliners for the F/A-18E.
+
+- **CAG**
+- **300**
+- **304**
+- **307**
+- **312**
+
+[View Sunliners previews](gallery/F-18E/Sunliners/README.md)
+
 ## Installation
 
 These skins are intended to be installed with **Ace Combat 8 SKIN STUDIO** and require **ACE8 MOD LAUNCHER AND LOADER**. Detailed installation instructions are available in [INSTALLATION.md](INSTALLATION.md).
