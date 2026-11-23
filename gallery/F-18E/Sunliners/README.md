@@ -1,6 +1,6 @@
 # F/A-18E Sunliners
 Individual previews for the five-skin F/A-18E Sunliners collection.
-<img width="1920" height="1080" alt="AC8 Thumbnail" src="https://github.com/user-attachments/assets/3f3cf0cc-e97c-472f-95eb-9e6f9d842db0" />
+<img width="1920" height="1080" alt="AC8 Thumbnail" src="https://github.com/user-attachments/assets/645c9089-2c4d-4b4e-80f4-a5b417fa7c41" />
 <img width="3840" height="2160" alt="ACE COMBAT 8  WINGS OF THEVE Screenshot 2026 11 22 - 15 12 28 99" src="https://github.com/user-attachments/assets/c99137d7-fb33-4cb7-a2fd-e7a0c1a49a34" />
 <img width="3840" height="2160" alt="ACE COMBAT 8  WINGS OF THEVE Screenshot 2026 11 22 - 14 57 10 99" src="https://github.com/user-attachments/assets/c6cea23d-f5f8-4339-942b-1d1c5f9fd0d1" />
 
