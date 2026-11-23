@@ -1,13 +1,25 @@
-# F/A-18E — Sunliners
+# F/A-18E Sunliners
 
-Individual aircraft previews for the F/A-18E Sunliners collection.
+Individual previews for the five-skin F/A-18E Sunliners collection.
 
-## Aircraft
+## CAG
 
-- [CAG](CAG/README.md)
-- [300](300/README.md)
-- [304](304/README.md)
-- [307](307/README.md)
-- [312](312/README.md)
+*Preview to be added.*
+
+## 300
+
+*Preview to be added.*
+
+## 304
+
+*Preview to be added.*
+
+## 307
+
+*Preview to be added.*
+
+## 312
+
+*Preview to be added.*
 
 [Back to F/A-18E gallery](../README.md)
